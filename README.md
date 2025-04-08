@@ -16,15 +16,7 @@
 
 </div>
 
-# Olá!! Seja bem-vindo ao meu repositório 🔥
-
-🚀 Estagiário na <strong>Pandô</strong><br><br>
-🎓 Estudando <strong>Banco de Dados</strong> na <strong>FATEC</strong><br><br>
-💡 Curioso por novas tecnologias, apaixonado por resolver problemas e construir soluções eficientes.<br><br>
-⚙️ Dev de front e de back, mas é no back que eu brilho mais 😎<br><br>
-🔍 Explorando o mundo do desenvolvimento todos os dias, um bug por vez.<br><br>
-
----
+<br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 
