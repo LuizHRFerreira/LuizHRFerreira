@@ -1,4 +1,4 @@
-# Ola, Bem vindo ao meu repositório!! 🔥
+# Ola, Bem vindo ao meu repositório!! 🟥⬜⬛
 
 <img src="banner.gif" width="300" align=right>
 
