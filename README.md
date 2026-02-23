@@ -1,7 +1,5 @@
 # Ola, Bem vindo ao meu repositório!! 
 
-<img src="banner.gif" width="300" align=right>
-
 👨‍💻 Desenvolvedor Full Stack<br><br>
 🎓 Estudando <strong>Banco de Dados</strong> na <strong>FATEC</strong><br><br>
 🔍 Explorando o mundo do desenvolvimento todos os dias, um bug por vez.<br><br>
